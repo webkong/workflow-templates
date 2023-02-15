@@ -1,0 +1,11 @@
+{
+  "name": "workflow-cli-template-web",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A full-featured for normal H5 web setup.",
+  "scripts": {
+  },
+  "devDependencies": {
+    "workflow-cli": "^1.0.3"
+  }
+}

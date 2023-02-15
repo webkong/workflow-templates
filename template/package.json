@@ -1,0 +1,10 @@
+{
+  "name": "workflow-cli-template-template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "快速创建模板目录的模版",
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
