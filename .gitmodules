@@ -1,0 +1,13 @@
+
+[submodule "sdk-rollup"]
+    path = sdk-rollup
+    url = git@github.com:workflow-templates/sdk-rollup.git
+[submodule "template"]
+    path = template
+    url = git@github.com:workflow-templates/template.git
+[submodule "vue"]
+    path = vue
+    url = git@github.com:workflow-templates/vue.git
+[submodule "web"]
+    path = web
+    url = git@github.com:workflow-templates/web.git
